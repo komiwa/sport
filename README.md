@@ -18,7 +18,7 @@ So confident in his approach, DeChambeau unleashed his driver on practically eve
 
 “I hope that inspires people to say, hey, look, maybe there is a different way to do it,” said DeChambeau. “Not everybody has to do it my way. I’m not saying that. I’m just saying in general that there are different ways to do things.”
 
-‘BATTLED HARD’
+# ‘BATTLED HARD’
 
 ![Branching](pic2.png)
 
